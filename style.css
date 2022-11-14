@@ -1,0 +1,10 @@
+body {
+	font-family: sans-serif;
+	max-width: 40rem;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.custom-background {
+	background-image: url('img/gradient.png');
+}
